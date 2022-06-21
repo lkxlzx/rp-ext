@@ -4,8 +4,8 @@
   "info": {
     "name": "vmxnet3",
     "description": "Adds VMware vmxnet3 virtual NIC driver Support",
-    "author_url": "https://github.com/pocopico",
-    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/vmxnet3",
+    "author_url": "https://github.com/lkxlzx",
+    "packer_url": "https://github.com/lkxlzx/rp-ext/tree/main/vmxnet3",
     "help_url": "<todo>"
   },
   "releases": {
