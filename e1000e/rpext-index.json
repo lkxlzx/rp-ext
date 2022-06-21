@@ -1,11 +1,11 @@
 {
   "id": "pocopico.e1000e",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/e1000e/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/lkxlzx/rp-ext/master/e1000e/rpext-index.json",
   "info": {
     "name": "e1000e",
     "description": "Adds Intel(R) PRO/1000 Network Driver Support",
-    "author_url": "https://github.com/pocopico",
-    "packer_url": "https://github.com/pocopico/rp-ext/tree/main/e1000e",
+    "author_url": "https://github.com/lkxlzx",
+    "packer_url": "https://github.com/lkxlzx/rp-ext/tree/main/e1000e",
     "help_url": "<todo>"
   },
   "releases": {
